@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/AxiPlBMTnoBJJhsWy1v6+StM+DAD+Izju3nmcLDLp0SL0Oj39zWxqERwW1soflsdS/s6tbtvE1DOrPhrjse0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abilena\\source\\repos\\Week 6\\Lab\\DeckOfCardAPILab\\DeckOfCardAPILab\\DeckOfCardAPILab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abilena\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

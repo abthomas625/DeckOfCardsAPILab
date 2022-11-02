@@ -1,0 +1,11 @@
+﻿@model NewCard
+
+<h2>Here are your cards:</h2>
+
+@foreach(Card c in Model.cards)
+{
+    <p>@c.value OF @c.suit</p>
+    <img src="@c.image" />
+}
+
+<p>Cards Remaining: @Model.remaining</p>
